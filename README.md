@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OunTouch
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...coding, i'm a beginner
-- 📫 How to reach me ...
 
 <!---
 OunTouch/OunTouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
